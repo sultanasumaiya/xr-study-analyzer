@@ -1,0 +1,7 @@
+session_id,participant_code,trial,target_angle_deg,target_size_m,distance_m,movement_time_ms,input_mode,timestamp_utc
+synthetic-01,P01,1,-25,0.32,2.8,750,pointer,2026-01-01T12:00:00Z
+synthetic-01,P01,2,10,0.32,2.8,680,pointer,2026-01-01T12:00:01Z
+synthetic-01,P01,3,30,0.32,2.8,890,pointer,2026-01-01T12:00:02Z
+synthetic-02,P02,1,-25,0.32,2.8,1200,controller,2026-01-01T12:10:00Z
+synthetic-02,P02,2,10,0.32,2.8,1010,controller,2026-01-01T12:10:02Z
+synthetic-02,P02,3,30,0.32,2.8,1150,controller,2026-01-01T12:10:04Z
